@@ -1,0 +1,435 @@
+# Reading C:/my/modeltech64_10.2/tcl/vsim/pref.tcl 
+# //  ModelSim SE-64 10.2 Feb  2 2013 
+# //
+# //  Copyright 1991-2013 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# OpenFile D:/FPGA/altera13.0project/UART/sim/uart.mpf 
+# Loading project uart
+# Compile of speed_select.v was successful.
+# Compile of uart_rx.v was successful.
+# Compile of uart_tb.v was successful.
+# Compile of uart_top.v was successful.
+# Compile of uart_tx.v was successful.
+# 5 compiles, 0 failed with no errors. 
+vsim -novopt work.uart_tb
+# vsim -novopt work.uart_tb 
+# Refreshing D:/FPGA/altera13.0project/UART/sim/work.uart_tb
+# Loading work.uart_tb
+# Refreshing D:/FPGA/altera13.0project/UART/sim/work.uart_top
+# Loading work.uart_top
+# Refreshing D:/FPGA/altera13.0project/UART/sim/work.speed_select
+# Loading work.speed_select
+# Refreshing D:/FPGA/altera13.0project/UART/sim/work.uart_rx
+# Loading work.uart_rx
+# Refreshing D:/FPGA/altera13.0project/UART/sim/work.uart_tx
+# Loading work.uart_tx
+add wave -position insertpoint sim:/uart_tb/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of speed_select.v was successful.
+# Compile of uart_rx.v was successful.
+# Compile of uart_tb.v was successful.
+# Compile of uart_top.v was successful.
+# Compile of uart_tx.v was successful.
+# 5 compiles, 0 failed with no errors. 
+vsim -novopt work.uart_tb
+# vsim -novopt work.uart_tb 
+# Refreshing D:/FPGA/altera13.0project/UART/sim/work.uart_tb
+# Loading work.uart_tb
+# Refreshing D:/FPGA/altera13.0project/UART/sim/work.uart_top
+# Loading work.uart_top
+# Refreshing D:/FPGA/altera13.0project/UART/sim/work.speed_select
+# Loading work.speed_select
+# Refreshing D:/FPGA/altera13.0project/UART/sim/work.uart_rx
+# Loading work.uart_rx
+# Refreshing D:/FPGA/altera13.0project/UART/sim/work.uart_tx
+# Loading work.uart_tx
+# ** Warning: (vsim-3015) D:/FPGA/altera13.0project/UART/design/uart_tb.v(25): [PCDPC] - Port size (8 or 8) does not match connection size (1) for port 'rx_data'. The port definition is at: D:/FPGA/altera13.0project/UART/design/uart_tx.v(5).
+# 
+#         Region: /uart_tb/uart_tx_inst
+# ** Warning: (vsim-3015) D:/FPGA/altera13.0project/UART/design/uart_tb.v(35): [PCDPC] - Port size (8 or 8) does not match connection size (1) for port 'rx_data'. The port definition is at: D:/FPGA/altera13.0project/UART/design/uart_rx.v(8).
+# 
+#         Region: /uart_tb/uart_rx_inst
+add wave -position insertpoint sim:/uart_tb/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position insertpoint sim:/uart_tb/uart_top_inst/*
+restart
+# ** Warning: (vsim-3015) D:/FPGA/altera13.0project/UART/design/uart_tb.v(25): [PCDPC] - Port size (8 or 8) does not match connection size (1) for port 'rx_data'. The port definition is at: D:/FPGA/altera13.0project/UART/design/uart_tx.v(5).
+# 
+#         Region: /uart_tb/uart_tx_inst
+# ** Warning: (vsim-3015) D:/FPGA/altera13.0project/UART/design/uart_tb.v(35): [PCDPC] - Port size (8 or 8) does not match connection size (1) for port 'rx_data'. The port definition is at: D:/FPGA/altera13.0project/UART/design/uart_rx.v(8).
+# 
+#         Region: /uart_tb/uart_rx_inst
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of speed_select.v was successful.
+# Compile of uart_rx.v was successful.
+# Compile of uart_tb.v was successful.
+# Compile of uart_top.v was successful.
+# Compile of uart_tx.v was successful.
+# 5 compiles, 0 failed with no errors. 
+vsim -novopt work.uart_tb
+# vsim -novopt work.uart_tb 
+# Refreshing D:/FPGA/altera13.0project/UART/sim/work.uart_tb
+# Loading work.uart_tb
+# Refreshing D:/FPGA/altera13.0project/UART/sim/work.uart_tx
+# Loading work.uart_tx
+# Refreshing D:/FPGA/altera13.0project/UART/sim/work.uart_rx
+# Loading work.uart_rx
+# Refreshing D:/FPGA/altera13.0project/UART/sim/work.speed_select
+# Loading work.speed_select
+# ** Warning: (vsim-3015) D:/FPGA/altera13.0project/UART/design/uart_tb.v(25): [PCDPC] - Port size (8 or 8) does not match connection size (1) for port 'rx_data'. The port definition is at: D:/FPGA/altera13.0project/UART/design/uart_tx.v(5).
+# 
+#         Region: /uart_tb/uart_tx_inst
+# ** Warning: (vsim-3015) D:/FPGA/altera13.0project/UART/design/uart_tb.v(35): [PCDPC] - Port size (8 or 8) does not match connection size (1) for port 'rx_data'. The port definition is at: D:/FPGA/altera13.0project/UART/design/uart_rx.v(8).
+# 
+#         Region: /uart_tb/uart_rx_inst
+add wave -position insertpoint sim:/uart_tb/uart_tx_inst/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position insertpoint sim:/uart_tb/*
+restart
+# ** Warning: (vsim-3015) D:/FPGA/altera13.0project/UART/design/uart_tb.v(25): [PCDPC] - Port size (8 or 8) does not match connection size (1) for port 'rx_data'. The port definition is at: D:/FPGA/altera13.0project/UART/design/uart_tx.v(5).
+# 
+#         Region: /uart_tb/uart_tx_inst
+# ** Warning: (vsim-3015) D:/FPGA/altera13.0project/UART/design/uart_tb.v(35): [PCDPC] - Port size (8 or 8) does not match connection size (1) for port 'rx_data'. The port definition is at: D:/FPGA/altera13.0project/UART/design/uart_rx.v(8).
+# 
+#         Region: /uart_tb/uart_rx_inst
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of speed_select.v was successful.
+# Compile of uart_rx.v was successful.
+# Compile of uart_tb.v was successful.
+# Compile of uart_top.v was successful.
+# Compile of uart_tx.v was successful.
+# 5 compiles, 0 failed with no errors. 
+vsim -novopt work.uart_tb
+# vsim -novopt work.uart_tb 
+# Refreshing D:/FPGA/altera13.0project/UART/sim/work.uart_tb
+# Loading work.uart_tb
+# Refreshing D:/FPGA/altera13.0project/UART/sim/work.uart_tx
+# Loading work.uart_tx
+# Refreshing D:/FPGA/altera13.0project/UART/sim/work.uart_rx
+# Loading work.uart_rx
+# Refreshing D:/FPGA/altera13.0project/UART/sim/work.speed_select
+# Loading work.speed_select
+# ** Warning: (vsim-3015) D:/FPGA/altera13.0project/UART/design/uart_tb.v(25): [PCDPC] - Port size (8 or 8) does not match connection size (1) for port 'rx_data'. The port definition is at: D:/FPGA/altera13.0project/UART/design/uart_tx.v(5).
+# 
+#         Region: /uart_tb/uart_tx_inst
+# ** Warning: (vsim-3015) D:/FPGA/altera13.0project/UART/design/uart_tb.v(35): [PCDPC] - Port size (8 or 8) does not match connection size (1) for port 'rx_data'. The port definition is at: D:/FPGA/altera13.0project/UART/design/uart_rx.v(8).
+# 
+#         Region: /uart_tb/uart_rx_inst
+add wave -position insertpoint sim:/uart_tb/*
+run
+run
+# Break in Module uart_tb at D:/FPGA/altera13.0project/UART/design/uart_tb.v line 68
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of speed_select.v was successful.
+# Compile of uart_rx.v was successful.
+# Compile of uart_tb.v failed with 2 errors.
+# Compile of uart_top.v was successful.
+# Compile of uart_tx.v was successful.
+# 5 compiles, 1 failed with 2 errors. 
+# Compile of speed_select.v was successful.
+# Compile of uart_rx.v was successful.
+# Compile of uart_tb.v was successful.
+# Compile of uart_top.v was successful.
+# Compile of uart_tx.v was successful.
+# 5 compiles, 0 failed with no errors. 
+vsim -novopt work.uart_tb
+# vsim -novopt work.uart_tb 
+# Refreshing D:/FPGA/altera13.0project/UART/sim/work.uart_tb
+# Loading work.uart_tb
+# Refreshing D:/FPGA/altera13.0project/UART/sim/work.uart_tx
+# Loading work.uart_tx
+# Refreshing D:/FPGA/altera13.0project/UART/sim/work.uart_rx
+# Loading work.uart_rx
+# Refreshing D:/FPGA/altera13.0project/UART/sim/work.speed_select
+# Loading work.speed_select
+# ** Warning: (vsim-3015) D:/FPGA/altera13.0project/UART/design/uart_tb.v(27): [PCDPC] - Port size (8 or 8) does not match connection size (1) for port 'rx_data'. The port definition is at: D:/FPGA/altera13.0project/UART/design/uart_tx.v(5).
+# 
+#         Region: /uart_tb/uart_tx_inst
+# ** Warning: (vsim-3015) D:/FPGA/altera13.0project/UART/design/uart_tb.v(37): [PCDPC] - Port size (8 or 8) does not match connection size (1) for port 'rx_data'. The port definition is at: D:/FPGA/altera13.0project/UART/design/uart_rx.v(8).
+# 
+#         Region: /uart_tb/uart_rx_inst
+# ** Error: (vsim-3053) D:/FPGA/altera13.0project/UART/design/uart_tb.v(44): Illegal output or inout port connection for "port 'clk_bps'".
+# 
+#         Region: /uart_tb/speed_rx_inst
+# ** Error: (vsim-3053) D:/FPGA/altera13.0project/UART/design/uart_tb.v(51): Illegal output or inout port connection for "port 'clk_bps'".
+# 
+#         Region: /uart_tb/speed_tx_inst
+# Error loading design
+# Compile of speed_select.v was successful.
+# Compile of uart_rx.v was successful.
+# Compile of uart_tb.v failed with 2 errors.
+# Compile of uart_top.v was successful.
+# Compile of uart_tx.v was successful.
+# 5 compiles, 1 failed with 2 errors. 
+# Compile of speed_select.v was successful.
+# Compile of uart_rx.v was successful.
+# Compile of uart_tb.v was successful.
+# Compile of uart_top.v was successful.
+# Compile of uart_tx.v was successful.
+# 5 compiles, 0 failed with no errors. 
+# Compile of speed_select.v was successful.
+# Compile of uart_rx.v was successful.
+# Compile of uart_tb.v was successful.
+# Compile of uart_top.v was successful.
+# Compile of uart_tx.v was successful.
+# 5 compiles, 0 failed with no errors. 
+vsim -novopt work.uart_tb
+# vsim -novopt work.uart_tb 
+# Refreshing D:/FPGA/altera13.0project/UART/sim/work.uart_tb
+# Loading work.uart_tb
+# Refreshing D:/FPGA/altera13.0project/UART/sim/work.uart_top
+# Loading work.uart_top
+# Refreshing D:/FPGA/altera13.0project/UART/sim/work.speed_select
+# Loading work.speed_select
+# Refreshing D:/FPGA/altera13.0project/UART/sim/work.uart_rx
+# Loading work.uart_rx
+# Refreshing D:/FPGA/altera13.0project/UART/sim/work.uart_tx
+# Loading work.uart_tx
+# ** Warning: (vsim-3015) D:/FPGA/altera13.0project/UART/design/uart_tb.v(27): [PCDPC] - Port size (8 or 8) does not match connection size (1) for port 'rx_data'. The port definition is at: D:/FPGA/altera13.0project/UART/design/uart_tx.v(5).
+# 
+#         Region: /uart_tb/uart_tx_inst
+# ** Warning: (vsim-3015) D:/FPGA/altera13.0project/UART/design/uart_tb.v(37): [PCDPC] - Port size (8 or 8) does not match connection size (1) for port 'rx_data'. The port definition is at: D:/FPGA/altera13.0project/UART/design/uart_rx.v(8).
+# 
+#         Region: /uart_tb/uart_rx_inst
+# ** Error: (vsim-3053) D:/FPGA/altera13.0project/UART/design/uart_tb.v(44): Illegal output or inout port connection for "port 'clk_bps'".
+# 
+#         Region: /uart_tb/speed_rx_inst
+# ** Error: (vsim-3053) D:/FPGA/altera13.0project/UART/design/uart_tb.v(51): Illegal output or inout port connection for "port 'clk_bps'".
+# 
+#         Region: /uart_tb/speed_tx_inst
+# Error loading design

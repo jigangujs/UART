@@ -1,0 +1,104 @@
+m255
+K4
+z2
+13
+cModel Technology
+Z0 dD:\FPGA\altera13.0project\UART\sim
+!i10d 8192
+!i10e 25
+!i10f 100
+vspeed_select
+Z1 !s100 50G>5@W[gRmEej:7`?n=T0
+Z2 IW@`K]abAmM`R_dRJ8gh=;0
+Z3 V`JN@9S9cnhjKRR_L]QIcM3
+Z4 dD:\FPGA\altera13.0project\UART\sim
+Z5 w1459306180
+Z6 8D:/FPGA/altera13.0project/UART/design/speed_select.v
+Z7 FD:/FPGA/altera13.0project/UART/design/speed_select.v
+L0 1
+Z8 OL;L;10.2;57
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|-vopt|D:/FPGA/altera13.0project/UART/design/speed_select.v|
+Z10 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z11 !s110 1460531895
+Z12 !s108 1460531895.575000
+Z13 !s107 D:/FPGA/altera13.0project/UART/design/speed_select.v|
+!i10b 1
+!s85 0
+vuart_rx
+R11
+Z14 !s100 <PUTmC9czbkoRRS6IQ]aS2
+Z15 INXk9DMA]Bi1b^h95eh6H`0
+R3
+R4
+Z16 w1459313752
+Z17 8D:/FPGA/altera13.0project/UART/design/uart_rx.v
+Z18 FD:/FPGA/altera13.0project/UART/design/uart_rx.v
+L0 2
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|-vopt|D:/FPGA/altera13.0project/UART/design/uart_rx.v|
+R10
+Z20 !s108 1460531895.684000
+Z21 !s107 D:/FPGA/altera13.0project/UART/design/uart_rx.v|
+!i10b 1
+!s85 0
+vuart_tb
+R11
+Z22 IIW0<H0Z8m_YjiOSfcKW622
+R3
+R4
+Z23 w1460531855
+Z24 8D:/FPGA/altera13.0project/UART/design/uart_tb.v
+Z25 FD:/FPGA/altera13.0project/UART/design/uart_tb.v
+L0 6
+R8
+r1
+31
+Z26 !s90 -reportprogress|300|-work|work|-vopt|D:/FPGA/altera13.0project/UART/design/uart_tb.v|
+R10
+Z27 !s100 gaToYn@99MP0zPPW:mhCB3
+Z28 !s108 1460531895.793000
+Z29 !s107 D:/FPGA/altera13.0project/UART/design/uart_tb.v|
+!i10b 1
+!s85 0
+vuart_top
+R11
+Z30 !s100 ]F2ikWmIL<OIYBjX_knL11
+Z31 IkQRSizz1Yn_R4>efV<U1n0
+R3
+R4
+Z32 w1460513446
+Z33 8D:/FPGA/altera13.0project/UART/design/uart_top.v
+Z34 FD:/FPGA/altera13.0project/UART/design/uart_top.v
+L0 1
+R8
+r1
+31
+Z35 !s90 -reportprogress|300|-work|work|-vopt|D:/FPGA/altera13.0project/UART/design/uart_top.v|
+R10
+!i10b 1
+!s85 0
+Z36 !s108 1460531895.897000
+Z37 !s107 D:/FPGA/altera13.0project/UART/design/uart_top.v|
+vuart_tx
+!s110 1460531896
+!i10b 1
+Z38 !s100 8OlIXDFLL3S3;dCh05EaP1
+Z39 I:C8>1B8DanS=zGH`6oSeH3
+R3
+R4
+Z40 w1459309711
+Z41 8D:/FPGA/altera13.0project/UART/design/uart_tx.v
+Z42 FD:/FPGA/altera13.0project/UART/design/uart_tx.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1460531896.008000
+!s107 D:/FPGA/altera13.0project/UART/design/uart_tx.v|
+Z43 !s90 -reportprogress|300|-work|work|-vopt|D:/FPGA/altera13.0project/UART/design/uart_tx.v|
+R10

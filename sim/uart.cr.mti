@@ -1,0 +1,36 @@
+D:/FPGA/altera13.0project/UART/design/uart_tb.v {1 {vlog -work work -vopt D:/FPGA/altera13.0project/UART/design/uart_tb.v
+Model Technology ModelSim SE-64 vlog 10.2 Compiler 2013.02 Feb  2 2013
+-- Compiling module uart_tb
+
+Top level modules:
+	uart_tb
+
+} {} {}} D:/FPGA/altera13.0project/UART/design/uart_rx.v {1 {vlog -work work -vopt D:/FPGA/altera13.0project/UART/design/uart_rx.v
+Model Technology ModelSim SE-64 vlog 10.2 Compiler 2013.02 Feb  2 2013
+-- Compiling module uart_rx
+
+Top level modules:
+	uart_rx
+
+} {} {}} D:/FPGA/altera13.0project/UART/design/uart_top.v {1 {vlog -work work -vopt D:/FPGA/altera13.0project/UART/design/uart_top.v
+Model Technology ModelSim SE-64 vlog 10.2 Compiler 2013.02 Feb  2 2013
+-- Compiling module uart_top
+
+Top level modules:
+	uart_top
+
+} {} {}} D:/FPGA/altera13.0project/UART/design/uart_tx.v {1 {vlog -work work -vopt D:/FPGA/altera13.0project/UART/design/uart_tx.v
+Model Technology ModelSim SE-64 vlog 10.2 Compiler 2013.02 Feb  2 2013
+-- Compiling module uart_tx
+
+Top level modules:
+	uart_tx
+
+} {} {}} D:/FPGA/altera13.0project/UART/design/speed_select.v {1 {vlog -work work -vopt D:/FPGA/altera13.0project/UART/design/speed_select.v
+Model Technology ModelSim SE-64 vlog 10.2 Compiler 2013.02 Feb  2 2013
+-- Compiling module speed_select
+
+Top level modules:
+	speed_select
+
+} {} {}}
